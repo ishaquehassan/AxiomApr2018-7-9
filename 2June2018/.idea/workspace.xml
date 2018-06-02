@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec3e3ae6-e1d4-43be-9948-e380958b59ea" name="Default" comment="" />
+    <list default="true" id="5ccdaced-d6fd-42a7-ae10-9858fb71035e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,12 +11,39 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HighOrder.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/HighOrder.kt">
+    <leaf>
+      <file leaf-file-name="HighOrderFun.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HighOrderFun.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            <state relative-caret-position="84">
+              <caret line="2" column="28" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HighOrder1.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HighOrder1.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HighOrder2.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HighOrder2.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="highOrder3.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/highOrder3.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -33,8 +60,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Test.kt" />
-        <option value="$PROJECT_DIR$/src/HighOrder.kt" />
+        <option value="$PROJECT_DIR$/src/HighOrderFun.kt" />
+        <option value="$PROJECT_DIR$/src/HighOrder1.kt" />
+        <option value="$PROJECT_DIR$/src/HighOrder2.kt" />
+        <option value="$PROJECT_DIR$/src/highOrder3.kt" />
       </list>
     </option>
   </component>
@@ -49,18 +78,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="26May" type="b2602c69:ProjectViewProjectNode" />
-              <item name="26May" type="462c0819:PsiDirectoryNode" />
+              <item name="2June2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2June2018" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="26May" type="b2602c69:ProjectViewProjectNode" />
-              <item name="26May" type="462c0819:PsiDirectoryNode" />
+              <item name="2June2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2June2018" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -68,12 +96,8 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Axiom\SaturdayCalss\AxiomApr2018-7-9\26May\src" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -87,7 +111,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.HighOrderKt">
+  <component name="RunManager" selected="Kotlin.HighOrder2Kt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -107,24 +131,24 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="HighOrderKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="26May" />
+    <configuration name="HighOrder2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="2June2018" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="HighOrderKt" />
+      <option name="MAIN_CLASS_NAME" value="HighOrder2Kt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="TestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="26May" />
+    <configuration name="HighOrderFunKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="2June2018" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="TestKt" />
+      <option name="MAIN_CLASS_NAME" value="HighOrderFunKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -150,13 +174,13 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.TestKt" />
-      <item itemvalue="Kotlin.HighOrderKt" />
+      <item itemvalue="Kotlin.HighOrderFunKt" />
+      <item itemvalue="Kotlin.HighOrder2Kt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.HighOrderKt" />
-        <item itemvalue="Kotlin.TestKt" />
+        <item itemvalue="Kotlin.HighOrder2Kt" />
+        <item itemvalue="Kotlin.HighOrderFunKt" />
       </list>
     </recent_temporary>
   </component>
@@ -165,78 +189,74 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ec3e3ae6-e1d4-43be-9948-e380958b59ea" name="Default" comment="" />
-      <created>1527337308903</created>
+      <changelist id="5ccdaced-d6fd-42a7-ae10-9858fb71035e" name="Default" comment="" />
+      <created>1527937939760</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1527337308903</updated>
+      <updated>1527937939760</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32843137" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
-      <window_info id="Image Layers" order="2" />
+      <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="right" id="Run" order="8" weight="0.32829046" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="3" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
+      <window_info id="UI Designer" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32843137" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Test.kt">
+    <entry file="file://$PROJECT_DIR$/src/HighOrderFun.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        <state relative-caret-position="84">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HighOrder.kt">
+    <entry file="file://$PROJECT_DIR$/src/HighOrder1.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        <state relative-caret-position="240">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lambdas.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test.kt">
+    <entry file="file://$PROJECT_DIR$/src/HighOrder2.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        <state relative-caret-position="42">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HighOrder.kt">
+    <entry file="file://$PROJECT_DIR$/src/highOrder3.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        <state relative-caret-position="111">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
